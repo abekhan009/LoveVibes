@@ -335,7 +335,7 @@ const ProposalCard = ({ onYesClick }) => {
       <div className="proposal-container">
         <div className="proposal-card">
           <h1 className="proposal-heading">
-            Will You Marry Me? 💍
+            Will You Be My Girlfriend? �
           </h1>
           <p className="proposal-subtext">
             You have only one correct answer 😌
@@ -379,7 +379,7 @@ const ProposalCard = ({ onYesClick }) => {
       <div className="proposal-card">
         {/* Heading */}
         <h1 className="proposal-heading">
-          Will You Marry Me? 💍
+          Will You Be My Girlfriend? �
         </h1>
 
         {/* Subtext */}
