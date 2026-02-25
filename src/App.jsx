@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import AnimatedHearts from './components/AnimatedHearts';
-import ProposalCard from './components/ProposalCard';
+import ProposalCard from './components/Proposalcard';
 import SuccessScreen from './components/SuccessScreen';
 import './index.css';
 
